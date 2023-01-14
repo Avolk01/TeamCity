@@ -4,7 +4,7 @@ namespace ForPI
 {
     public class Program
     {
-        static void main()
+        static void Main()
         {
             //int n = int.Parse(Console.ReadLine());
             var n = 10;
