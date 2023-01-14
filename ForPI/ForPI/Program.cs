@@ -7,6 +7,7 @@ static double Fact(int n)
 }
 
 //int n = int.Parse(Console.ReadLine());
+Gjcnfdmnt ,fkks gj;fkeqcnf;
 var n = 10;
 Console.WriteLine(Fact(n));
 
