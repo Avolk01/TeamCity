@@ -1,0 +1,15 @@
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\bin\Debug\net6.0\ForPI.exe
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\bin\Debug\net6.0\ForPI.deps.json
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\bin\Debug\net6.0\ForPI.runtimeconfig.json
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\bin\Debug\net6.0\ForPI.dll
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\bin\Debug\net6.0\ForPI.pdb
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.csproj.AssemblyReference.cache
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.AssemblyInfoInputs.cache
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.AssemblyInfo.cs
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.csproj.CoreCompileInputs.cache
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.dll
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\refint\ForPI.dll
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.pdb
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ForPI.genruntimeconfig.cache
+C:\Users\AVolk\Desktop\Юфу\ПИ\ForPI\ForPI\obj\Debug\net6.0\ref\ForPI.dll
